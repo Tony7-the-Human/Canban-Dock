@@ -65,7 +65,6 @@ body {
 
 .hold {
   border: 2px dashed #ff85e4;
-  opacity: 0.6;
 }
 .hide {
   display: none;
